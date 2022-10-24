@@ -2,45 +2,15 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+# गर्भनाल
+## प्रवासी भारतीयों की पत्रिका
 
+भारतीय संस्कृति अनेकता में एकता के सूत्र-वाक्य में यकीन रखती है। यहाँ रहन-सहन, खान-पान, बोल-चाल एवं जीवनशैली की बहुआयामी विविधता दिखाई देती है। यही विविधता भारत को पूरी दुनिया में अनुपम बनाती है।
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+दुनियाभर में रहने वाले भारतवंशी अपनी मातृभूमि से अटूट रागात्मक सम्बन्ध महसूस करते हैं और विविध अवसरों पर उजगार करते हैं। दुनियाभर के 202 देशों में भारतीय मूल के करीब तीन करोड़ लोग निवास कर रहे हैं। एक अनुमान के मुताबिक यूएसए में 32 लाख, यूके में 16 लाख, दक्षिण अफ्रीका में 13 लाख,  कनाडा में 12 लाख,  आस्ट्रेलिया में 4 लाख और सूरीनाम, फिजी, मॉरीशस, न्यूजीलैंड, वेस्ट इंडीज़ आदि देशों में रह रहे लाखों भारतीय भावनात्मक तौर पर भारत और भारतीयता से प्रेम करते हैं। उनमें अब भी सनातन संस्कृति एवं परिवार मूल्यों में आस्था है।
 
-## Usage
+"गर्भनाल" को दुनियाभर के भारतवंशियों ने अपनी रचनात्मक अभिव्यक्ति के मंच के तौर पर स्वीकार किया है। सनातन भारतीय अस्मिता और पहचान से जुड़ी परम्पराओं, भारतीय भाषाओं के उन्नयन एवं भारतीय सांस्कृतिक मूल्यों के संरक्षण-संवर्धन के लिये भी "गर्भनाल" मिशन के तौर पर कार्य कर रही है।
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+"गर्भनाल" विगत 14 बरसों से दुनियाभर में बसे लगभग 2 लाख प्रवासी भारतीयों को उनके ईमेल पतों पर पीडीएफ के रूप में निःशुल्क भिजवाई जा रही है। भारतीयता को बरकरार रखने के इस मिशन से जुड़े एवं रचनात्मक, आर्थिक सहयोग करें।
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
-
-### Files
-
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
-
-## Example tag usage
-
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
-
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+विस्तार से जानने के लिये सम्पर्क करें : garbhanal@ymail.com
